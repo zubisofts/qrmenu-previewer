@@ -1,0 +1,22 @@
+.menu-item-center-cont{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.menu-center-title{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.menu-center-price{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+.menu-center-description{
+    margin: 0;
+    text-align: center;
+}
